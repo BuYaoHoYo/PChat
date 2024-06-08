@@ -1,2 +1,2 @@
 # PChat
-A Terminal Chat Software. Characterized by safety!
+PChat is a terminal chat software. Characterized by safety!
